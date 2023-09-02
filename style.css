@@ -1,0 +1,35 @@
+body{
+background-color: rgb(221, 255, 0);   
+font-family: serif; 
+}
+p,button{
+letter-spacing: 4px;
+font-weight: bolder; 
+font-family:'Antonio' ;   
+color: rgb(0, 0, 0);
+font-size: 30px;
+
+}
+.copyright_footer{
+position: fixed;
+color: rgb(0, 0, 0); 
+bottom:0 ;  
+width: 100%;
+line-height: 3;
+text-align: center;
+text-shadow: 3px 3px 3px rgb(0, 0, 0) ;
+font-size: large;
+background-color: rgb(255, 255, 255);
+}
+
+h1{
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+color: black;
+font-family:'Noto Sans' ;
+}
+h4{
+color: rgb(0, 0, 81);
+font-weight: 600;
+
+}
